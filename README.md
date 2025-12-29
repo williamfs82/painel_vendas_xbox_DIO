@@ -1,6 +1,3 @@
-# painel_vendas_xbox_DIO
-Dashboard interativo desenvolvido no Microsoft Excel, para análise de vendas / assinaturas do Xbox Game Pass. Apresenta KPIs, insights visuais e organização dos dados.
-
 # **DIO | Santander 2025 - Ciência de Dados com Python**
 
 ## **Painel de Vendas - Xbox Game Pass**
